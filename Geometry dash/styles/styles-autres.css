@@ -1,0 +1,14 @@
+
+.titre {
+    color:aliceblue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#police {
+    font-family: "Madimi One", sans-serif;
+}
+
+#menu a:hover:before { 
+    content:" » ";
+}

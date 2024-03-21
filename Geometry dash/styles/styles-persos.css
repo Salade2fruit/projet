@@ -1,0 +1,78 @@
+div.vendeurs{
+    display: inline-block;
+}
+
+img#scratch2{
+    transition: 0.3s;
+    width: 100px;
+    margin: 25px;
+    border-radius: 15px;
+}
+
+img#scratch2:hover{
+    transition: 0.3s;
+    transform: scale(1.2);
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+img#potbor{
+    transition: 0.3s;
+    width: 100px;
+    margin: 25px;
+    border-radius: 15px;
+    
+}
+
+img#potbor:hover{
+    transition: 0.3s;
+    transform: scale(1.2);
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+img#shop-keeper{
+    transition: 0.3s;
+    width: 100px;
+    margin: 25px;
+    border-radius: 15px;
+}
+
+img#shop-keeper:hover{
+    transition: 0.3s;
+    transform: scale(1.2);
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+img#mechanic{
+    transition: 0.3s;
+    width: 100px;
+    margin: 25px;
+    border-radius: 15px;
+}
+
+img#mechanic:hover{
+    transition: 0.3s;
+    transform: scale(1.2);
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+img#cube{
+    transition: 0.3s;
+    width: 100px;
+    margin: 25px;
+    border-radius: 15px;
+    position: relative;
+    left: -325px;
+
+}
+
+img#cube:hover{
+    transition: 0.3s;
+    transform: scale(1.2);
+    margin-top: 25px;
+    border-radius: 15px;
+    
+}
